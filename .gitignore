@@ -1,0 +1,6 @@
+# vs ignore
+.vs/**
+
+# project
+**/obj/**
+**/bin/**
